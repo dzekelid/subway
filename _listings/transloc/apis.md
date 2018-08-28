@@ -7,8 +7,8 @@ image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/684-transl
 x-kinRank: "7"
 x-alexaRank: "116174"
 tags: Subway
-created: "2018-08-26"
-modified: "2018-08-26"
+created: "2018-08-28"
+modified: "2018-08-28"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/subway/master/_listings/transloc/apis.md
 specificationVersion: "0.14"
 apis: []
